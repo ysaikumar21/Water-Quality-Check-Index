@@ -49,7 +49,9 @@ Install dependencies:
 pip install -r requirements.txt
 
 Run the Streamlit app:
+
 streamlit run app.py
+
 Real time outputs of deployment link is :
 https://water-quality-check-index-7.streamlit.app/
 
