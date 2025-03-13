@@ -50,6 +50,8 @@ pip install -r requirements.txt
 
 Run the Streamlit app:
 streamlit run app.py
+Real time outputs of deployment link is :
+https://water-quality-check-index-7.streamlit.app/
 
 📈 Results & Insights
 The trained model achieved high accuracy in water quality classification, effectively distinguishing between safe, moderately contaminated, and highly contaminated water samples. The Streamlit dashboard provides real-time insights for users, making it a practical tool for water resource management and environmental monitoring.
