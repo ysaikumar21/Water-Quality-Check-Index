@@ -1,5 +1,6 @@
-Water Quality Check Index 🌊💧
-AI-Powered Water Quality Classification Using Machine Learning & Streamlit
+**Water Quality Check Index 🌊💧**
+
+**AI-Powered Water Quality Classification Using Machine Learning & Streamlit**
 
 📌 Overview
 This project leverages machine learning and data analytics to classify water quality based on various physicochemical parameters. The model predicts contamination levels and provides actionable insights for environmental monitoring and public health safety.
